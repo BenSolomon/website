@@ -32,7 +32,7 @@ plugins:
 paginate: 10
 footer_text: '© 2018 Ben Solomon'
 admin_name: 'Ben Solomon'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+google_analytics: "UA-130556819-1" # Update with your own tracking ID
 enable_contact: true
 
 #### Phantom Navigation menu
