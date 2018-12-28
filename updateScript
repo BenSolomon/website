@@ -1,0 +1,28 @@
+#!/bin/bash
+
+echo -e "\nDeploying Jekyll Site\n"
+
+# REPOSITORY_DIR is where your Git repo is located
+REPOSITORY_DIR=$HOME/website
+
+# DEPLOY_DIR is where the Jekyll build result will go
+DEPLOY_DIR=$HOME/www
+
+# DEPLOY_TMP_DIR is where the git clone command will drop the source
+DEPLOY_TMP_DIR=$(mktemp $HOME/tmp/jekyll.deploy.XXXXX)
+rm -f $DEPLOY_TMP_DIR
+#rm -iRf $DEPLOY_DIR*
+
+echo -e "\n\nCloning...\n"
+git clone $REPOSITORY_DIR $DEPLOY_TMP_DIR
+cd $DEPLOY_TMP_DIR
+
+echo -e "\n\nRebuilding Jekyll...\n"
+#bundle exec jekyll build -s $DEPLOY_TMP_DIR -d $DEPLOY_DIR 2>> ~/foo.log 
+#~/gems/bin/jekyll build -s $DEPLOY_TMP_DIR -d $DEPLOY_DIR 2>> ~/foo.log
+jekyll build -s $DEPLOY_TMP_DIR -d $DEPLOY_DIR 
+
+rm -rf $DEPLOY_TMP_DIR
+cd $HOME
+
+echo -e "\n\nDone!\n"
