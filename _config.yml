@@ -17,7 +17,7 @@ title: "Hello. I'm Ben Solomon."
 email: 'bds1217@gmail.com'
 description: "I'm a pediatric resident physician at Stanford University."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://bsolomon.us" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'BenSolomon'
 researchgate_username: 'Benjamin_Solomon'
