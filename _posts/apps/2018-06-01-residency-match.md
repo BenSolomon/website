@@ -2,9 +2,9 @@
 layout: inner
 position: left
 title: 'Residency Match Statistics'
-date: 2016-02-20 21:15:00
+date: 2018-06-01 21:15:00
 categories: app
-tags: 
+tags:
 featured_image: '/img/posts/residency-match.png'
 project_link: 'https://bsolomon.us/app/residency-match'
 button_icon: 'flask'
