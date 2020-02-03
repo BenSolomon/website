@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Kawaski Disease Discharge Risk Calculator'
-date: 2019-04-08 21:15:00
+date: 2020-01-06 21:15:00
 categories: app
 tags:
 featured_image: '/img/posts/kawasaki-dc.png'
