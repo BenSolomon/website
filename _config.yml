@@ -43,3 +43,4 @@ nav_item:
   - { url: '/apps', text: 'Apps' }
   - { url: '/cv', text: 'CV' }
   - { url: '/publications', text: 'Publications' }
+  - { url: '/support', text: 'Support'}

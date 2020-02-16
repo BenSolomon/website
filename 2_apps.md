@@ -12,7 +12,7 @@ permalink: /apps/
         {% for post in site.posts %}
             {% if post.categories contains "app" %}
             <div class="col-md-4 card">
-             <a href="{{ post.project_link }}" class="index-anchor">    
+             <a href="{{ post.project_link }}" class="index-anchor">
                 <div class="panel panel-default">
 
                   {% if post.featured_image %}
