@@ -22,7 +22,7 @@ It costs about $20 each month to host this website and its apps. If you find any
 <br>
 <div style="text-align:center;">
 
-**Thank you to past donors!**
+## Thank you to past donors!
 
 KKO • LK • KJ • KN • JC
 </div>
