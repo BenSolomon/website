@@ -24,3 +24,7 @@ permalink: /support_test/
 <a href="https://www.buymeacoffee.com/bsolomon"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bsolomon&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="bsolomon" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
+### Ads
+
+<script data-ad-client="ca-pub-6161756108618145" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
