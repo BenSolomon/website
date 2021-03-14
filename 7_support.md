@@ -7,6 +7,7 @@ permalink: /support/
 
 It costs about $20 each month to host this website and its apps. If you find any of the resources here helpful, please consider donating a few dollars to help cover the server costs using the PayPal donation button below!  
 
+<br>
 <div style="text-align:center;">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations" />
@@ -16,4 +17,12 @@ It costs about $20 each month to host this website and its apps. If you find any
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+</div>
+
+<br>
+<div style="text-align:center;">
+
+**Thank you to past donors!**
+
+KKO • LK • KJ • KN • JC
 </div>
