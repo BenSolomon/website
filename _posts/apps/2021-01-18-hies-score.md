@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Hyper-IgE Syndrome Score Calculator'
+title: 'Calculator for Hyper-IgE associated syndromes'
 date: 2021-01-18 21:15:00
 categories: app
 tags:
